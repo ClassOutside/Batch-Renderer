@@ -11,3 +11,6 @@ Blender add-on to assist with rendering multiple image sequences at once
 
 The time to complete can vary depending on what you are rendering. All rendered output should be saved to the same folder containing the selected image sequence folders. 
 Here you can monitor the progress. 
+
+# Relevant Videos
+The following video was made to demonstrate the intended use of this add-on: https://youtu.be/hPcoT-71pWk
